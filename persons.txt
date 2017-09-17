@@ -1,0 +1,7 @@
+Bob	Male	25
+John	Male	23
+Jimmy	Male	27
+Marshal	Male	26
+Tina	Female	19
+Amy	Female	21
+Penny	Female	23
